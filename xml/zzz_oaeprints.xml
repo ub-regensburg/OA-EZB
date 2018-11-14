@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+  <!-- Open Access Eprints Phrases -->
+
+	<!-- Headings -->
+	<epp:phrase id="ezboa_main_heading">Open Access Rights</epp:phrase>
+	<epp:phrase id="ezboa_sub_heading1">EZB second publishing*</epp:phrase>
+	<epp:phrase id="ezboa_sub_heading2">SHERPA/RoMEO second publishing**</epp:phrase>
+	<epp:phrase id="ezboa_sub_heading3">Legal and copyright information</epp:phrase>
+
+
+        <!-- Field Names -->
+
+        <epp:phrase id="eprint_fieldname_oa_eprints_test">Dies ist ein Teststring zur Entwicklung des OA-Eprints-Plug_ins</epp:phrase>
+	<epp:phrase id="eprint_fieldname_oa_eprints_jour_id">Ausgabe der Zeitschriften-ID erfolgt hier: </epp:phrase>
+	<epp:phrase id="metapage_title_policies">Open Access Rights</epp:phrase>
+
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:logo_path">/images/neu_ezb_logo_EN_transparent.png</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:title">EZB OA exploitation rights*</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezboa">Information about the journal with the ISSN:  </epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:msg_rights_available">The publisher with whom you have published allows you to publish your article under Open Access conditions. This means that you can place the article under free access and thus enable everyone to read, download, save, link, print and use the article free of charge.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_state">Message</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_embargo">Embargo (in months)</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_publication_rights">Secondary publication allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_sources">Sources</epp:phrase>
+	<!--<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_versions">Which versions of the article may you publish under OA?</epp:phrase>-->
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_versions">Conditions: </epp:phrase>
+		<epp:phrase id="Plugin/InputForm/Component/Ezboa:publication_conditions">Publication conditions specified in: </epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:heading_repositories">Where can you publish the article under OA rights?</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:msg_no_rights_available">Unfortunately, there are no OA exploitation rights listed inside EZB.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:msg_ezb_journal_link">--View the journal's details page in the EZB--</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_dfg_info">Specific Open Access regulations in alliance and national licences are crucial in ensuring that research results can be freely published in parallel with the publications of publishers. The secondary publication rights (OA rights) negotiated in these licenses are almost never applied by researchers. This is a decisive reason for the low use of the "green path" of Open Access. 
+
+Against this background, the DFG is funding the project "OA-EZB: Open Access Services of the Electronic Journals Library (EZB)". One aim of the project is to provide information on exploitation rights applicable to the secondary publication of journal articles for facilitated and broad-based re-use in order to support authors in making their research results freely available.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:msg_no_rights_note">No OA rights have been assigned to this journal in the EZB. In this case, please refer to the publisher copyright policies (SHERPA/RoMEO).</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:msg_error_note">OA rights could not be checked.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_legal_info_url">
+		<a href="https://www.gesetze-im-internet.de/englisch_urhg/englisch_urhg.html#p0241" target="_blank">More...</a>
+	</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_legal_info_link">German Act on Copyright and Related Rights (Urheberrechtsgesetz, UrhG) Section 38</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_legal_info_content">(4) The author of a scientific contribution which results from research activities at least half of which were financed by public funds and which was reprinted in a collection which is published periodically at least twice per year also has the right, if he has granted the publisher or editor an exclusive right of use, to make the contribution available to the public upon expiry of 12 months after first publication in the accepted manuscript version, unless this serves a commercial purpose. The source of the first publication must be cited. Any deviating agreement to the detriment of the author shall be ineffective.</epp:phrase>
+
+
+<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_legal_info">
+
+<section class="wrap">
+	<!--<a class="content_toggle_anchor" name="content_toggle_info"></a>
+ <div class="content_toggle_switch_background" style="opacity: 1;"></div>
+ <div class="content_toggle_switch" style="margin-top: 9px;"> 
+<a href="#" id="content_toggle_info" style="text-decoration: none;" role="tab" aria-controls="content" onclick="return false;">-->
+<h4 style="/*color: rgb(255, 255, 255); padding: 7px 0px;*/"><epc:phrase ref="Plugin/InputForm/Component/Ezboa:ezb_legal_info_link" /></h4><!--</a>
+ </div>-->
+ <div class="content_toggle" style="display: block;">
+        <epc:phrase ref="Plugin/InputForm/Component/Ezboa:ezb_legal_info_content" />
+	<epc:phrase ref="Plugin/InputForm/Component/Ezboa:ezb_legal_info_url" />
+ </div>
+</section>
+
+	</epp:phrase>
+
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_disclaimer_heading">Disclaimer</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_disclaimer_content">
+		<p>*The package administrators are responsible for the registered exploitation rights and not the EZB. All provided information can not be understood as binding legal advice. In case of doubt, the publisher's contract always applies.</p>
+<p>**This information is provided by SHERPA/RoMEO. The summarized information shows the publisher's standard policy. Authors may also be able to negotiate changes and exceptions. All provided information can not be understood as binding legal advice. In case of doubt, the publisher's contract always applies.</p>
+        </epp:phrase>
+        <epp:phrase id="Plugin/InputForm/Component/Ezboa:ezb_disclaimer_body">
+
+<section> 
+	<!--<a class="content_toggle_anchor" name="content_toggle_disclaimer"></a>
+ <div class="content_toggle_switch_background" style="opacity: 1;"></div>
+ <div class="content_toggle_switch" style="margin-top: 9px;">
+  <a href="#" id="content_toggle_disclaimer" style="text-decoration: none;" role="tab" aria-controls="content" onclick="return false;">-->
+  <h4 style="/*color: rgb(255, 255, 255); padding: 7px 0px;*/"><epc:phrase ref="Plugin/InputForm/Component/Ezboa:ezb_disclaimer_heading" /></h4><!--</a>
+ </div>-->
+ <div class="content_toggle" style="display: block;">
+	<epc:phrase ref="Plugin/InputForm/Component/Ezboa:ezb_disclaimer_content" />
+ </div>
+</section>
+
+</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:oamsg">OA exploitation rights available</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:title_not_found"> not found.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:msg_no_rights_available">Unfortunately, there are no OA exploitation rights listed inside SHERPA/RoMEO.</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:title">OA exploitation rights in SHERPA/RoMEO**</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo">Information about the journal with the ISSN: </epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_preprint_can"><img src="/images/greentick.gif" alt="green tick" width="20" height="20" align="absmiddle" /> Preprint publication allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_postprint_can"><img src="/images/greentick.gif" alt="green tick" width="20" height="20" align="absmiddle" /> Postprint publication allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_pdf_can"><img src="/images/greentick.gif" alt="green tick" width="20" height="20" align="absmiddle" /> PDF publication allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_preprint_cannot"><img src="/images/redcross.gif" alt="green tick" width="20" height="20" align="absmiddle" /> Preprint publication NOT allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_preprint_unclear"><img src="/images/redcross.gif" alt="green tick" width="20" height="20" align="absmiddle" /> Preprint publication UNCLEAR</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_postprint_cannot"><img src="/images/redcross.gif" alt="green tick" width="20" height="20" align="absmiddle" /> Postprint publication NOT allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_pdf_cannot"><img src="/images/redcross.gif" alt="green tick" width="20" height="20" align="absmiddle" /> PDF publication NOT allowed</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_preprint_restricted">Preprint archiving not formally supported</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_postprint_restricted">Postprint archiving not formally supported</epp:phrase>
+		<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_pdf_restricted">PDF archiving not formally supported</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_about">SHERPA RoMEO is an online resource that aggregates and analyses publisher open access policies from around the world and provides summaries of self-archiving permissions and conditions of rights given to authors on a journal-by-journal basis. RoMEO is a Jisc service and has collaborative relationships with many international partners, who contribute time and effort to developing and maintaining the service. </epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:heading_versions">Which versions of the article may you publish under OA?</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:romeo_colour">RoMEo colour</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:publisher_info">Publisher info</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:publisher_info_website">Publisher website</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:publisher_info_at_romeo">Publisher information @ RoMEo</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:publishing_conditions">Conditions</epp:phrase>
+	<epp:phrase id="Plugin/InputForm/Component/Romeo:publishing_cp_right_links">Copyright links</epp:phrase>
+
+
+
+
+</epp:phrases>

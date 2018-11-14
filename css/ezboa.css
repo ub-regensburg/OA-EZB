@@ -1,0 +1,67 @@
+/*OA-EZB Erpints plug-in CSS file*/
+
+.oamsg{
+        font-weight: bold !important;
+}
+
+.oa_available{
+
+}
+
+.oa_not_available {
+        width: 10%;
+}
+
+
+/*EZB CSS file*/
+.ezb_logo {
+        width: 100%;
+}
+
+.ezb_logo_cell {
+        width: 80%;
+}
+
+.hook_cell {
+        width: 48px;
+}
+
+.ezboa_cell_message{
+        width: 50%;
+        text-align: left;
+        vertical-align: top;
+}
+
+.ezboa_results {
+        list-style: none !important;
+}
+
+.infotext {
+        font-size: 7pt;
+}
+
+/*SHERPA RoMEO CSS*/
+a
+.romeo.blank  {background-color: white;}
+.romeo.white  {background-color: #FFFFFF;}
+.romeo.yellow {background-color: #FFFF99;}
+.romeo.blue   {background-color: #D3ECFA;}
+.romeo.green  {background-color: #D0F9D2;}
+.romeo.gray   {background-color: #F5F5F5;}
+
+.sherpa_logo {
+        width: 100%;
+}
+
+.sherpa_logo_cell{
+        width: 30%;
+}
+
+.romeo_results {
+        list-style: none !important;
+}
+
+.oa_cell_msg{
+        width: 50%;
+        text-align: center;
+}

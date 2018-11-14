@@ -1,0 +1,15 @@
+
+e.g.
+
+red cross (oa_rights_not_available.svg)
+https://pixabay.com/de/verboten-rot-kreuz-l%C3%B6schen-159816/
+
+green hook (oa_rights_available.png)
+https://pixabay.com/de/okay-%C3%BCberpr%C3%BCfen-h%C3%A4kchen-korrigieren-159817/
+
+green hook small (greentick.gif)/ red cross small (redcross.gif)
+https://fontawesome.com/icons/check?style=solid
+https://fontawesome.com/icons/times?style=solid
+
+SHERPA RoMEO-Logo (please ask SHERPA/RoMEO for permission to use this file)
+http://www.sherpa.ac.uk/images/SHERPA-RoMEO-long-logo.gif
