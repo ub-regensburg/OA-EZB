@@ -1,7 +1,7 @@
 # +++++ Service configuration +++++ #
 
 # EZB library id e.g. 'TEST3'
-$c->{ezb_bibid}= "UBR";
+$c->{ezb_bibid}= "";
 
 # EZB eprints service adress
 $c->{ezb_service_adress} = "http://ezb.ur.de/api/oa_rights";
