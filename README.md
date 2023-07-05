@@ -9,8 +9,6 @@ Authors thus receive all the necessary information in an overview even before th
 
 On the technical side, the existing [EPrints plug-in for SHERPA/RoMEo](http://files.eprints.org/799/) (developped by Alen Vodopijevec at Ruđer Bošković Institute, Zagreb) was updated and access to the new EZB interface services implemented. OA-EZB will be developed for EPrints version 3.3.16 and will be made available for free use under the GPL license on GitHub upon completion. Its operation requires registration for API accesses to SHERPA/RoMEO and the EZB.
 
-For illustration purposes, a publicly accessible test environment has been set up, which can be accessed at https://oa-ezb.uni-regensburg.de . Instructions can be found on the start page. The possibility of changing the EZB Institution ID (ECB-BIBID) in the test environment demonstrates the great advantage of accessing the OA rights stored in the ECB, as the information is immediately issued to users on an institution-specific basis. After its completion, OA-EZB will become an integral part of the [University of Regensburg publication server](https://epub.uni-regensburg.de/).
-
 #### Deutsch
 Open-Access-Rechte (OA-Rechte) aus Allianz-und Nationallizenzen, die in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.ur.de/) erfasst sind, lassen sich nun in institutionelle Repositorien einbinden. Dies gelingt nun mit OA-EZB, einem eigens für die Repositoriensoftware EPrints entwickelten Plug-in, das auf die neuen OA-Schnittstellendienste der EZB zugreift. 
 
@@ -22,7 +20,6 @@ Somit erhalten Autoren bereits vor dem Hochladen ihrer Forschungsergebnisse alle
  
 Auf technischer Seite wurde das existierende [EPrints-Plug-in für SHERPA/RoMEo](http://files.eprints.org/799/) (entwickelt von Alen Vodopijevec am Ruđer Bošković Institut, Zagreb) aktualisiert und der Zugriff auf die neuen EZB-Schnittstellendienste implementiert. Die Entwicklung von OA-EZB erfolgt für EPrints der Version 3.3.16 und wird bei Abschluss unter der GPL-Lizenz auf GitHub zur freien Nutzung bereitgestellt. Für seinen Betrieb ist eine Registrierung für die API-Zugänge bei SHERPA/RoMEO und bei der EZB notwendig.
 
-Zur Veranschaulichung wurde eine öffentlich zugängliche Testumgebung eingerichtet, die unter https://oa-ezb.uni-regensburg.de abgerufen werden kann. Eine Anleitung befindet sich auf der Startseite. Durch den in der Testumgebung möglichen Wechsel der EZB- Institutions-ID (EZB-BIBID), zeigt sich der große Vorteil, den der Zugriff auf die in der EZB hinterlegten OA-Rechte bietet, da die Informationen sofort institutionsspezifisch für die Nutzer ausgegeben werden. Nach seiner Fertigstellung wird OA-EZB ein fester Bestandteil des [Publikationsservers der Universität Regensburg](https://epub.uni-regensburg.de/).
 
 ## Requirements
 
